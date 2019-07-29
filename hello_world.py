@@ -1,1 +1,2 @@
-print('hell world')
+def foo(): 
+  print('hell world')
